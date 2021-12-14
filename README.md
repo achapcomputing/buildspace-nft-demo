@@ -16,6 +16,12 @@ npx hardhat run scripts/deploy.js --network rinkeby
 
 ## Links to NFT
 
+### Final Falcon NFT
+
+[OpenSea](https://testnets.opensea.io/collection/falconnft-dnc4xhosex)
+
+This is the most recently deployed version of FalconNFT with randomly generated Star Wars ship names.
+
 ### Dynamically Generated On-Chain Image
 
 [OpenSea](https://testnets.opensea.io/collection/falconnft-v3)
